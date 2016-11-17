@@ -1,0 +1,853 @@
+[
+  {
+    "no": "001",
+    "name": "荣耀 畅玩5",
+    "name_detail": "荣耀 畅玩5 全网通 2GB+16GB 4G手机",
+    "ram": 16,
+    "icon_src": "https://dn-kaolalicai.qbox.me/Honor_changwan5_thumbnail.jpg",
+    "list_src": "https://dn-kaolalicai.qbox.me/Honor_changwan5_list.png",
+    "createdAt": "2016-11-02T11:09:25.132Z",
+    "updatedAt": "2016-11-15T03:21:36.785Z",
+    "detail_src": [
+      {
+        "name": "https://dn-kaolalicai.qbox.me/Honor_changwan5_detail1.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/Honor_changwan5_detail2.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/Honor_changwan5_detail3.jpg"
+      }
+    ],
+    "description": "只手也能遮天，5英寸高清小巧屏幕",
+    "tags": [
+      {
+        "name": "柔光自拍"
+      },
+      {
+        "name": "双卡双待"
+      },
+      {
+        "name": "傻瓜操作"
+      }
+    ],
+    "prices": [
+      {
+        "color": "金色",
+        "month": 12,
+        "price": "699",
+        "trans_amount": "6000",
+        "earning": "15.8",
+        "earning_real": "591.8",
+        "earning_more": "68.9"
+      },
+      {
+        "color": "金色",
+        "month": 6,
+        "price": "699",
+        "trans_amount": "13500",
+        "earning": "23.2",
+        "earning_real": "599.2",
+        "earning_more": "31.0"
+      },
+      {
+        "color": "金色",
+        "month": 3,
+        "price": "699",
+        "trans_amount": "29000",
+        "earning": "31.8",
+        "earning_real": "607.8",
+        "earning_more": "14.7"
+      },
+      {
+        "color": "白色",
+        "month": 12,
+        "price": "699",
+        "trans_amount": "6000",
+        "earning": "15.8",
+        "earning_real": "591.8",
+        "earning_more": "68.9"
+      },
+      {
+        "color": "白色",
+        "month": 6,
+        "price": "699",
+        "trans_amount": "13500",
+        "earning": "23.2",
+        "earning_real": "599.2",
+        "earning_more": "31.0"
+      },
+      {
+        "color": "白色",
+        "month": 3,
+        "price": "699",
+        "trans_amount": "29000",
+        "earning": "31.8",
+        "earning_real": "607.8",
+        "earning_more": "14.7"
+      }
+    ],
+    "id": "5819c965c003121169dafeb9"
+  },
+  {
+    "no": "002",
+    "name": "红米Note 4 高配版",
+    "name_detail": "红米Note 4 高配全网通版 3GB+64GB 4G手机",
+    "ram": 64,
+    "createdAt": "2016-11-02T10:52:59.292Z",
+    "updatedAt": "2016-11-07T13:26:01.844Z",
+    "icon_src": "https://dn-kaolalicai.qbox.me/Redmi_note4_thumbnail.jpg",
+    "list_src": "https://dn-kaolalicai.qbox.me/Redmi_note4_list2.png",
+    "detail_src": [
+      {
+        "name": "https://dn-kaolalicai.qbox.me/Redmi_note4_detail1.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/Redmi_note4_detail2.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/Redmi_note4_detail3.jpg"
+      }
+    ],
+    "description": "狠狠玩一天！4100mAh大电池",
+    "tags": [
+      {
+        "name": "国民手机"
+      },
+      {
+        "name": "指纹识别"
+      },
+      {
+        "name": "大电池玩一天"
+      }
+    ],
+    "prices": [
+      {
+        "color": "银白",
+        "month": 12,
+        "price": "1299",
+        "trans_amount": "13000",
+        "earning": "33.2",
+        "earning_real": "1282.2",
+        "earning_more": "128.1"
+      },
+      {
+        "color": "银白",
+        "month": 6,
+        "price": "1299",
+        "trans_amount": "29000",
+        "earning": "38.1",
+        "earning_real": "1287.1",
+        "earning_more": "57.7"
+      },
+      {
+        "color": "银白",
+        "month": 3,
+        "price": "1299",
+        "trans_amount": "61200",
+        "earning": "33.7",
+        "earning_real": "1282.7",
+        "earning_more": "27.2"
+      },
+      {
+        "color": "深灰",
+        "month": 12,
+        "price": "1299",
+        "trans_amount": "13000",
+        "earning": "33.2",
+        "earning_real": "1282.2",
+        "earning_more": "128.1"
+      },
+      {
+        "color": "深灰",
+        "month": 6,
+        "price": "1299",
+        "trans_amount": "29000",
+        "earning": "38.1",
+        "earning_real": "1287.1",
+        "earning_more": "57.7"
+      },
+      {
+        "color": "深灰",
+        "month": 3,
+        "price": "1299",
+        "trans_amount": "61200",
+        "earning": "33.7",
+        "earning_real": "1282.7",
+        "earning_more": "27.2"
+      }
+    ],
+    "id": "5819c58bc003121169dafeb8"
+  },
+  {
+    "prices": [
+      {
+        "month": 12,
+        "price": "7488",
+        "trans_amount": "75000",
+        "earning": "109.3",
+        "color": "黑色",
+        "earning_real": "7397.3",
+        "earning_more": "738.5"
+      },
+      {
+        "month": 6,
+        "price": "7488",
+        "trans_amount": "168000",
+        "earning": "168.4",
+        "color": "黑色",
+        "earning_real": "7456.4",
+        "earning_more": "332.3"
+      },
+      {
+        "month": 3,
+        "price": "7488",
+        "trans_amount": "357000",
+        "earning": "194.3",
+        "color": "黑色",
+        "earning_real": "7482.3",
+        "earning_more": "156.9"
+      },
+      {
+        "month": 12,
+        "color": "亮黑色",
+        "trans_amount": "75000",
+        "price": "7488",
+        "earning": "109.3",
+        "earning_real": "7397.3",
+        "earning_more": "738.5"
+      },
+      {
+        "month": 6,
+        "color": "亮黑色",
+        "trans_amount": "168000",
+        "price": "7488",
+        "earning": "168.4",
+        "earning_real": "7456.4",
+        "earning_more": "332.3"
+      },
+      {
+        "month": 3,
+        "color": "亮黑色",
+        "trans_amount": "357000",
+        "price": "7488",
+        "earning": "194.3",
+        "earning_real": "7482.3",
+        "earning_more": "156.9"
+      },
+      {
+        "month": 12,
+        "color": "玫瑰金",
+        "trans_amount": "75000",
+        "price": "7488",
+        "earning": "109.3",
+        "earning_real": "7397.3",
+        "earning_more": "738.5"
+      },
+      {
+        "month": 6,
+        "color": "玫瑰金",
+        "trans_amount": "168000",
+        "price": "7488",
+        "earning": "168.4",
+        "earning_real": "7456.4",
+        "earning_more": "332.3"
+      },
+      {
+        "month": 3,
+        "color": "玫瑰金",
+        "trans_amount": "357000",
+        "price": "7488",
+        "earning": "194.3",
+        "earning_real": "7482.3",
+        "earning_more": "156.9"
+      },
+      {
+        "month": 12,
+        "color": "银色",
+        "trans_amount": "75000",
+        "price": "7488",
+        "earning": "109.3",
+        "earning_real": "7397.3",
+        "earning_more": "738.5"
+      },
+      {
+        "month": 6,
+        "color": "银色",
+        "trans_amount": "168000",
+        "price": "7488",
+        "earning": "168.4",
+        "earning_real": "7456.4",
+        "earning_more": "332.3"
+      },
+      {
+        "month": 3,
+        "color": "银色",
+        "trans_amount": "357000",
+        "price": "7488",
+        "earning": "194.3",
+        "earning_real": "7482.3",
+        "earning_more": "156.9"
+      },
+      {
+        "month": 12,
+        "color": "金色",
+        "trans_amount": "75000",
+        "price": "7488",
+        "earning": "109.3",
+        "earning_real": "7397.3",
+        "earning_more": "738.5"
+      },
+      {
+        "month": 6,
+        "color": "金色",
+        "trans_amount": "168000",
+        "price": "7488",
+        "earning": "168.4",
+        "earning_real": "7456.4",
+        "earning_more": "332.3"
+      },
+      {
+        "month": 3,
+        "color": "金色",
+        "trans_amount": "357000",
+        "price": "7488",
+        "earning": "194.3",
+        "earning_real": "7482.3",
+        "earning_more": "156.9"
+      }
+    ],
+    "colors": [
+      {
+        "name": "金色"
+      },
+      {
+        "name": "银色"
+      },
+      {
+        "name": "玫瑰金"
+      },
+      {
+        "name": "黑色"
+      },
+      {
+        "name": "亮黑"
+      }
+    ],
+    "desc": [
+      {
+        "name": "双摄像头"
+      },
+      {
+        "name": "防溅抗水"
+      },
+      {
+        "name": "A10处理器"
+      }
+    ],
+    "no": "003",
+    "name": "iPhone 7 Plus",
+    "ram": 128,
+    "createdAt": "2016-10-24T11:13:46.427Z",
+    "updatedAt": "2016-11-07T11:08:42.875Z",
+    "tags": [
+      {
+        "name": "限量特供"
+      },
+      {
+        "name": "防水抗溅"
+      },
+      {
+        "name": "高逼格摄像头"
+      }
+    ],
+    "detail_src": [
+      {
+        "name": "https://dn-kaolalicai.qbox.me/iPhone_7_Plus_detail1.jpg"
+      },
+      {
+        "month": 12,
+        "name": "https://dn-kaolalicai.qbox.me/iPhone_7_Plus_detail2.jpg"
+      },
+      {
+        "month": 6,
+        "name": "https://dn-kaolalicai.qbox.me/iPhone_7_Plus_detail3.jpg"
+      }
+    ],
+    "icon_src": "https://dn-kaolalicai.qbox.me/iPhone_7_Plus_thumbnail.jpg",
+    "list_src": "https://dn-kaolalicai.qbox.me/iPhone_7_Plus_list.png",
+    "name_detail": "iPhone 7 Plus 4G手机 全网通（128G）",
+    "description": "引得起火热目光，更经得起水花洗礼",
+    "id": "580decea40ef3616e26e257a"
+  },
+  {
+    "prices": [
+      {
+        "month": 12,
+        "price": "5388",
+        "trans_amount": "55000",
+        "earning": "186.7",
+        "color": "黑色",
+        "earning_real": "5424.7",
+        "earning_more": "531.4"
+      },
+      {
+        "month": 6,
+        "price": "5388",
+        "trans_amount": "123000",
+        "earning": "221.2",
+        "color": "黑色",
+        "earning_real": "5459.2",
+        "earning_more": "239.1"
+      },
+      {
+        "price": "5388",
+        "month": 3,
+        "trans_amount": "258000",
+        "earning": "169.4",
+        "color": "黑色",
+        "earning_real": "5407.4",
+        "earning_more": "112.9"
+      },
+      {
+        "color": "亮黑色",
+        "price": "5388",
+        "month": 12,
+        "trans_amount": "55000",
+        "earning": "186.7",
+        "earning_real": "5424.7",
+        "earning_more": "531.4"
+      },
+      {
+        "color": "亮黑色",
+        "price": "5388",
+        "month": 6,
+        "trans_amount": "123000",
+        "earning": "221.2",
+        "earning_real": "5459.2",
+        "earning_more": "239.1"
+      },
+      {
+        "color": "亮黑色",
+        "price": "5388",
+        "month": 3,
+        "trans_amount": "258000",
+        "earning": "169.4",
+        "earning_real": "5407.4",
+        "earning_more": "112.9"
+      },
+      {
+        "color": "玫瑰金",
+        "price": "5388",
+        "month": 12,
+        "trans_amount": "55000",
+        "earning": "186.7",
+        "earning_real": "5424.7",
+        "earning_more": "531.4"
+      },
+      {
+        "color": "玫瑰金",
+        "price": "5388",
+        "month": 6,
+        "trans_amount": "123000",
+        "earning": "221.2",
+        "earning_real": "5459.2",
+        "earning_more": "239.1"
+      },
+      {
+        "color": "玫瑰金",
+        "price": "5388",
+        "month": 3,
+        "trans_amount": "258000",
+        "earning": "169.4",
+        "earning_real": "5407.4",
+        "earning_more": "112.9"
+      },
+      {
+        "color": "银色",
+        "price": "5388",
+        "month": 12,
+        "trans_amount": "55000",
+        "earning": "186.7",
+        "earning_real": "5424.7",
+        "earning_more": "531.4"
+      },
+      {
+        "color": "银色",
+        "price": "5388",
+        "month": 6,
+        "trans_amount": "123000",
+        "earning": "221.2",
+        "earning_real": "5459.2",
+        "earning_more": "239.1"
+      },
+      {
+        "color": "银色",
+        "price": "5388",
+        "month": 3,
+        "trans_amount": "258000",
+        "earning": "169.4",
+        "earning_real": "545407.4",
+        "earning_more": "112.9"
+      },
+      {
+        "color": "金色",
+        "price": "5388",
+        "month": 12,
+        "trans_amount": "55000",
+        "earning": "186.7",
+        "earning_real": "5424.7",
+        "earning_more": "531.4"
+      },
+      {
+        "color": "金色",
+        "price": "5388",
+        "month": 6,
+        "trans_amount": "123000",
+        "earning": "221.2",
+        "earning_real": "5459.2",
+        "earning_more": "239.1"
+      },
+      {
+        "color": "金色",
+        "price": "5388",
+        "month": 3,
+        "trans_amount": "258000",
+        "earning": "169.4",
+        "earning_real": "5407.4",
+        "earning_more": "112.9"
+      }
+    ],
+    "colors": [
+      {
+        "name": "金色"
+      },
+      {
+        "name": "黑色"
+      },
+      {
+        "name": "亮黑色"
+      },
+      {
+        "name": "玫瑰金"
+      },
+      {
+        "name": "银色"
+      }
+    ],
+    "desc": [
+      {
+        "name": "防溅抗水"
+      },
+      {
+        "name": "1200万像素"
+      },
+      {
+        "name": "A10处理器"
+      }
+    ],
+    "no": "004",
+    "name": "iPhone 7",
+    "ram": 32,
+    "createdAt": "2016-10-24T10:27:07.213Z",
+    "updatedAt": "2016-11-09T08:46:01.324Z",
+    "name_detail": "iPhone 7 4G手机 全网通(32G)",
+    "icon_src": "https://dn-kaolalicai.qbox.me/iPhone7_thumnail.jpg",
+    "list_src": "https://dn-kaolalicai.qbox.me/iPhone7_list.png",
+    "detail_src": [
+      {
+        "name": "https://dn-kaolalicai.qbox.me/iPhone7_detail1.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/iPhone7_detail2.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/iPhone7_detail3.jpg"
+      }
+    ],
+    "description": "引得起火热目光，更经得起水花洗礼",
+    "tags": [
+      {
+        "name": "急速体验"
+      },
+      {
+        "name": "防水抗溅"
+      },
+      {
+        "name": "1200万像素"
+      }
+    ],
+    "detail_info_src": [
+      {
+        "name": "https://dn-kaolalicai.qbox.me/iphone7_canshu1.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/iphone7_canshu2.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/iPhone7_canshu3.jpg"
+      }
+    ],
+    "id": "580de1fb3278ca6ce1487f2d"
+  },
+  {
+    "detail_src": [
+      {
+        "name": "https://dn-kaolalicai.qbox.me/Meilane_detail1.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/Meilane_detail2.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/Meilane_detail3.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "name": "高清大屏"
+      },
+      {
+        "name": "指纹支付"
+      },
+      {
+        "name": "双卡双待"
+      }
+    ],
+    "prices": [
+      {
+        "color": "玫瑰金",
+        "month": 12,
+        "price": "1299",
+        "trans_amount": "12500",
+        "earning": "53.9",
+        "earning_real": "1232.9",
+        "earning_more": "128.1"
+      },
+      {
+        "color": "玫瑰金",
+        "month": 6,
+        "price": "1299",
+        "trans_amount": "27500",
+        "earning": "41.5",
+        "earning_real": "1220.5",
+        "earning_more": "57.7"
+      },
+      {
+        "color": "玫瑰金",
+        "month": 3,
+        "price": "1299",
+        "trans_amount": "58500",
+        "earning": "47.1",
+        "earning_real": "1226.1",
+        "earning_more": "27.2"
+      },
+      {
+        "color": "星空灰",
+        "month": 12,
+        "price": "1299",
+        "trans_amount": "12500",
+        "earning": "53.9",
+        "earning_real": "1232.9",
+        "earning_more": "128.1"
+      },
+      {
+        "color": "星空灰",
+        "month": 6,
+        "price": "1299",
+        "trans_amount": "27500",
+        "earning": "41.5",
+        "earning_real": "1220.5",
+        "earning_more": "57.7"
+      },
+      {
+        "color": "星空灰",
+        "month": 3,
+        "price": "1299",
+        "trans_amount": "58500",
+        "earning": "47.1",
+        "earning_real": "1226.1",
+        "earning_more": "27.2"
+      },
+      {
+        "color": "月光银",
+        "month": 12,
+        "price": "1299",
+        "trans_amount": "12500",
+        "earning": "53.9",
+        "earning_real": "1232.9",
+        "earning_more": "128.1"
+      },
+      {
+        "color": "月光银",
+        "month": 6,
+        "price": "1299",
+        "trans_amount": "27500",
+        "earning": "41.5",
+        "earning_real": "1220.5",
+        "earning_more": "57.7"
+      },
+      {
+        "color": "月光银",
+        "month": 3,
+        "price": "1299",
+        "trans_amount": "58500",
+        "earning": "47.1",
+        "earning_real": "1226.1",
+        "earning_more": "27.2"
+      },
+      {
+        "color": "香槟金",
+        "month": 12,
+        "price": "1299",
+        "trans_amount": "12500",
+        "earning": "53.9",
+        "earning_real": "1232.9",
+        "earning_more": "128.1"
+      },
+      {
+        "color": "香槟金",
+        "month": 6,
+        "price": "1299",
+        "trans_amount": "27500",
+        "earning": "41.5",
+        "earning_real": "1220.5",
+        "earning_more": "57.7"
+      },
+      {
+        "color": "香槟金",
+        "month": 3,
+        "price": "1299",
+        "trans_amount": "58500",
+        "earning": "47.1",
+        "earning_real": "1226.1",
+        "earning_more": "27.2"
+      },
+      {
+        "color": "冰川蓝",
+        "month": 12,
+        "price": "1299",
+        "trans_amount": "12500",
+        "earning": "53.9",
+        "earning_real": "1232.9",
+        "earning_more": "128.1"
+      },
+      {
+        "color": "冰川蓝",
+        "month": 6,
+        "price": "1299",
+        "trans_amount": "27500",
+        "earning": "41.5",
+        "earning_real": "1220.5",
+        "earning_more": "57.7"
+      },
+      {
+        "color": "冰川蓝",
+        "month": 3,
+        "price": "1299",
+        "trans_amount": "58500",
+        "earning": "47.1",
+        "earning_real": "1226.1",
+        "earning_more": "27.2"
+      }
+    ],
+    "no": "005",
+    "name": "魅蓝E",
+    "name_detail": "魅蓝E 32GB 全网通 4G手机",
+    "ram": 32,
+    "icon_src": "https://dn-kaolalicai.qbox.me/Meilane_thumbnail.png",
+    "list_src": "https://dn-kaolalicai.qbox.me/Meilane_list.png",
+    "description": "视觉盛宴，尽在高清大屏",
+    "createdAt": "2016-11-02T09:31:37.775Z",
+    "updatedAt": "2016-11-07T11:29:53.415Z",
+    "id": "5819b279c003121169dafeb7"
+  },
+  {
+    "detail_src": [
+      {
+        "name": "https://dn-kaolalicai.qbox.me/21KE_detail1.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/21KE_detail2.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/21KE_detail3.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "name": "一秒上手"
+      },
+      {
+        "name": "远程协助"
+      },
+      {
+        "name": "小米生态链产品"
+      }
+    ],
+    "prices": [
+      {
+        "color": "金色",
+        "month": 12,
+        "price": "999",
+        "trans_amount": "10000",
+        "earning": "17.3",
+        "earning_real": "986.3",
+        "earning_more": "98.5"
+      },
+      {
+        "color": "金色",
+        "month": 6,
+        "price": "999",
+        "trans_amount": "23000",
+        "earning": "51.8",
+        "earning_real": "1020.8",
+        "earning_more": "44.3"
+      },
+      {
+        "color": "金色",
+        "month": 3,
+        "price": "999",
+        "trans_amount": "48000",
+        "earning": "37.0",
+        "earning_real": "1006",
+        "earning_more": "20.9"
+      }
+    ],
+    "no": "006",
+    "name": "21KE M3",
+    "ram": 32,
+    "name_detail": "21KE M3 全网通高配版",
+    "description": "小米生态链荣誉产品，支持移动/电信/联通4G",
+    "icon_src": "https://dn-kaolalicai.qbox.me/21KE_thumbnail.jpg",
+    "list_src": "https://dn-kaolalicai.qbox.me/21KE_list.png",
+    "createdAt": "2016-11-11T03:48:49.370Z",
+    "updatedAt": "2016-11-11T04:21:24.200Z",
+    "detail_info_src": [
+      {
+        "name": "https://dn-kaolalicai.qbox.me/21KE_xiangqing1.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/21KE_xiangqing2.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/21KE_xiangqing3.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/21KE_xiangqing4.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/21KE_xiangqing6.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/21KE_xiangqing8.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/21KE_xiangqing7.jpg"
+      },
+      {
+        "name": "https://dn-kaolalicai.qbox.me/21KE_xiangqing9.jpg"
+      }
+    ],
+    "id": "58253fa10c37ad1b3c30b6dd"
+  }
+]

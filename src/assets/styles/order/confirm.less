@@ -1,0 +1,112 @@
+@orangeColor : #EB9741;
+.wrapper{
+  padding-bottom: 50px;
+  .redColor{
+    color: #EC3B39;
+  }
+  .marginL20{
+    margin-left: 20px;
+  }
+  .marginLF5{
+    margin-left: -5px;
+  }
+}
+.session{
+  background: #fff;
+  margin-bottom: 15px;
+  .li{
+    overflow: hidden;
+    border-top: 1px solid #EDEDED;
+    padding: 10px;
+  }
+  .explain{
+    text-align: right;
+    margin-top: -5px;
+    padding-bottom: 5px;
+  }
+  .assetsItem{
+    padding: 10px;
+    line-height: 1em;
+  }
+  .tips{
+    background: #FDE7CE;
+    color: #AE7337;
+    .tips-icon{
+      display: inline-block;
+      width: 16px;
+      height: 16px;
+      background: url("../../images/tips_nitice.png") no-repeat;
+      background-size: 100% 100%;
+      vertical-align: middle;
+      margin-right: 3px;
+    }
+  }
+}
+.pwdContent{
+  //display: none;
+  position: absolute;
+  top: 80px;
+  left: 10%;
+  width: 70%;
+  padding: 20px 3%;
+  border-radius: 8px;
+  background: #fff;
+  text-align: center;
+  z-index: 9999;
+  .title{
+    font-weight: 100;
+    font-size: 1.4em;
+    margin-bottom: 15px;
+  }
+  .pwdContainer{
+    margin-top: 15px;
+    position: relative;
+    ul{
+      overflow: hidden;
+      width: 95%;
+      margin: 0 auto;
+      li{
+        float: left;
+        box-sizing: border-box;
+        width: 16.1%;
+        height: 40px;
+        line-height: 36px;
+        font-size: 22px;
+        border: 1px solid #dadada;
+        border-left: 0;
+        background: #f4f4f4;
+        vertical-align: top;
+        &:first-child{
+          border-left: 1px solid #dadada;
+        }
+      }
+    }
+    input{
+      width: 95%;
+      position: absolute;
+      left: -999px;
+      top: 0;
+      height: 38px;
+      opacity: 0;
+      /*z-index: -999;*/
+    }
+  }
+  .closePwd{
+    position: absolute;
+    top: 0px;
+    right: 3%;
+    width: 25px;
+    height: 25px;
+    font-size: 1.5em;
+    text-align: center;
+  }
+}
+.footer-btn-left-more{
+  line-height: 1.5em;
+  padding: 5px 0 0 30px;
+  text-align: left;
+  box-sizing: border-box;
+  .redColor{
+    font-size: 1.2em;
+  }
+}

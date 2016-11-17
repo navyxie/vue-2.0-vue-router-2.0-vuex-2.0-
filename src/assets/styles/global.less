@@ -1,0 +1,234 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6,
+pre, form, fieldset, input, textarea, p, blockquote, th, td {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, "微软雅黑";
+  outline: none;
+}
+input{
+  border: none;
+  outline: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+fieldset, img {
+  border: 0;
+}
+
+address, caption, cite, code, dfn, em, strong, th, var {
+  font-style: normal;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+*:focus, *:hover, *:active {
+  outline: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.flex {
+  -webkit-box-flex: 1; /* OLD - iOS 6-, Safari 3.1-6 */
+  -moz-box-flex: 1; /* OLD - Firefox 19- */
+  width: 20%; /* For old syntax, otherwise collapses. */
+  -webkit-flex: 1; /* Chrome */
+  -ms-flex: 1; /* IE 10 */
+  flex: 1;
+}
+
+.display-flex {
+  display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6 */
+  display: -moz-box; /* OLD - Firefox 19- (buggy but mostly works) */
+  display: -ms-flexbox; /* TWEENER - IE 10 */
+  display: -webkit-flex; /* NEW - Chrome */
+  display: flex; /* NEW, Spec - Opera 12.1, Firefox 20+ */
+  /* 09版 */
+  -webkit-box-orient: horizontal;
+  /* 12版 */
+  -webkit-flex-direction: row;
+  -moz-flex-direction: row;
+  -ms-flex-direction: row;
+  -o-flex-direction: row;
+  flex-direction: row;
+}
+
+textarea{
+  resize: none;
+  border: none;
+  outline: none;
+  vertical-align: top;
+}
+
+//在chrome下：
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+  -webkit-appearance: none !important;
+  margin: 0;
+}
+//Firefox下：
+input[type="number"]{-moz-appearance:textfield;}
+
+.clearfix {
+  *zoom: 1;
+}
+
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  line-height: 0;
+  content: "";
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.floatL {
+  float: left;
+}
+
+.floatR {
+  float: right;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.fixed {
+  position: fixed;
+}
+
+.hide {
+  display: none !important;
+}
+
+.show {
+  display: block !important;
+}
+
+.showIB {
+  display: inline-block !important;
+}
+
+.displayIB {
+  display: inline-block;
+}
+
+.number {
+  font-family: Arial, "微软雅黑";
+}
+.text-del{
+  text-decoration: line-through;
+}
+html, body {
+  font-size: 16px;
+  background: #EDEDED;
+  color: #363636;
+}
+.redColor{
+  color: #EC3B39;
+}
+.marginT5{
+  margin-top: 5px;
+}
+.marginL20{
+  margin-left: 20px;
+}
+.marginLF5{
+  margin-left: -5px;
+}
+.fontWB{
+  font-weight: bold;
+}
+.fontS12{
+  font-size: 12px;
+}
+.mark{
+  display: inline-block;
+  padding: 2px 3px;
+  background: #EEC753;
+  color: #fff;
+  line-height: 1em;
+  margin-right: 8px;
+  border-radius: 3px;
+}
+.buttom_btn{
+  margin-top: 20px;
+  display: block;
+  width: 100%;
+  padding: 10px 0;
+  text-align: center;
+  border-radius: 5px;
+  background: #EB9741;
+  color: #fff;
+  font-size: 1.4em;
+}
+.mask {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #000;
+  opacity: 0.7;
+  z-index: 1000;
+}
+.goIcon{
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-top: 2px solid #c0c0c0;
+  border-left: 2px solid #c0c0c0;
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s
+}
+.fade-enter, .fade-leave-active {
+  opacity: 0
+}
+@keyframes nprogress-spinner {
+  0%   { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+@-webkit-keyframes nprogress-spinner {
+  0%   { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+.spinner {
+  display: block;
+  position: fixed;
+  z-index: 1031;
+  top: 15px;
+  right: 15px;
+}
+.spinner-icon {
+  width: 18px;
+  height: 18px;
+  box-sizing: border-box;
+  border: solid 2px transparent;
+  border-top-color: #29d;
+  border-left-color: #29d;
+  border-radius: 50%;
+  animation: nprogress-spinner 400ms linear infinite;
+  -webkit-animation: nprogress-spinner 400ms linear infinite;
+}
